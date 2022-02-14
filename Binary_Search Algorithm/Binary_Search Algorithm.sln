@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Binary_Search Algorithm", "Binary_Search Algorithm\Binary_Search Algorithm.csproj", "{D1E2FC54-7C67-42A2-87B2-33EFC7FCAE3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tetrary_Search Algorithm", "Tetrary_Search Algorithm\Tetrary_Search Algorithm.csproj", "{FA64B6A1-E5F2-4C5D-B270-9C93E98EF373}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array leader of first raw", "Array leader of first raw\Array leader of first raw.csproj", "{5A4BFCD7-DA6F-4B96-8BFE-394F6E44490F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fisrt Raw Leader Search Iteration", "Fisrt Raw Leader Search Iteration\Fisrt Raw Leader Search Iteration.csproj", "{4D1727C7-5C2F-40A6-9114-5F77EFE8F3B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Second Raw Leader Search Iteration", "Second Raw Leader Search Iteration\Second Raw Leader Search Iteration.csproj", "{98410E42-292A-4800-B6E1-EB34C4194586}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Giving_a_change_greedy_algorithm", "Giving_a_change_greedy_algorithm\Giving_a_change_greedy_algorithm.csproj", "{196E228D-A5DF-4F92-A146-E29AB2495D84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1E2FC54-7C67-42A2-87B2-33EFC7FCAE3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1E2FC54-7C67-42A2-87B2-33EFC7FCAE3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1E2FC54-7C67-42A2-87B2-33EFC7FCAE3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1E2FC54-7C67-42A2-87B2-33EFC7FCAE3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA64B6A1-E5F2-4C5D-B270-9C93E98EF373}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA64B6A1-E5F2-4C5D-B270-9C93E98EF373}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA64B6A1-E5F2-4C5D-B270-9C93E98EF373}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA64B6A1-E5F2-4C5D-B270-9C93E98EF373}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A4BFCD7-DA6F-4B96-8BFE-394F6E44490F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A4BFCD7-DA6F-4B96-8BFE-394F6E44490F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A4BFCD7-DA6F-4B96-8BFE-394F6E44490F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A4BFCD7-DA6F-4B96-8BFE-394F6E44490F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D1727C7-5C2F-40A6-9114-5F77EFE8F3B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D1727C7-5C2F-40A6-9114-5F77EFE8F3B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D1727C7-5C2F-40A6-9114-5F77EFE8F3B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D1727C7-5C2F-40A6-9114-5F77EFE8F3B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98410E42-292A-4800-B6E1-EB34C4194586}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98410E42-292A-4800-B6E1-EB34C4194586}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98410E42-292A-4800-B6E1-EB34C4194586}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98410E42-292A-4800-B6E1-EB34C4194586}.Release|Any CPU.Build.0 = Release|Any CPU
+		{196E228D-A5DF-4F92-A146-E29AB2495D84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{196E228D-A5DF-4F92-A146-E29AB2495D84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{196E228D-A5DF-4F92-A146-E29AB2495D84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{196E228D-A5DF-4F92-A146-E29AB2495D84}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9B9C847-2E7F-4BAA-B5EB-C3F3C3C60B54}
+	EndGlobalSection
+EndGlobal

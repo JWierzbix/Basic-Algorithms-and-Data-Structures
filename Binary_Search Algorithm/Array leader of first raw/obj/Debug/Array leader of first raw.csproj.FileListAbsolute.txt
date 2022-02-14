@@ -1,0 +1,7 @@
+C:\Users\Kuba\Desktop\KUBA\Private\STUDIA\GitHub codes\Binary_Search Algorithm\Array leader of first raw\bin\Debug\Array leader of first raw.exe.config
+C:\Users\Kuba\Desktop\KUBA\Private\STUDIA\GitHub codes\Binary_Search Algorithm\Array leader of first raw\bin\Debug\Array leader of first raw.exe
+C:\Users\Kuba\Desktop\KUBA\Private\STUDIA\GitHub codes\Binary_Search Algorithm\Array leader of first raw\bin\Debug\Array leader of first raw.pdb
+C:\Users\Kuba\Desktop\KUBA\Private\STUDIA\GitHub codes\Binary_Search Algorithm\Array leader of first raw\obj\Debug\Array leader of first raw.csprojAssemblyReference.cache
+C:\Users\Kuba\Desktop\KUBA\Private\STUDIA\GitHub codes\Binary_Search Algorithm\Array leader of first raw\obj\Debug\Array leader of first raw.csproj.CoreCompileInputs.cache
+C:\Users\Kuba\Desktop\KUBA\Private\STUDIA\GitHub codes\Binary_Search Algorithm\Array leader of first raw\obj\Debug\Array leader of first raw.exe
+C:\Users\Kuba\Desktop\KUBA\Private\STUDIA\GitHub codes\Binary_Search Algorithm\Array leader of first raw\obj\Debug\Array leader of first raw.pdb

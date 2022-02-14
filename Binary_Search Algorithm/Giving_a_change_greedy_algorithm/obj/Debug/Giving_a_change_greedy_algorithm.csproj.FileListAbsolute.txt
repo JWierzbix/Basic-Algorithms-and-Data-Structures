@@ -1,0 +1,7 @@
+C:\Users\Kuba\Desktop\KUBA\Private\STUDIA\GitHub codes\Binary_Search Algorithm\Giving_a_change_greedy_algorithm\bin\Debug\Giving_a_change_greedy_algorithm.exe.config
+C:\Users\Kuba\Desktop\KUBA\Private\STUDIA\GitHub codes\Binary_Search Algorithm\Giving_a_change_greedy_algorithm\bin\Debug\Giving_a_change_greedy_algorithm.exe
+C:\Users\Kuba\Desktop\KUBA\Private\STUDIA\GitHub codes\Binary_Search Algorithm\Giving_a_change_greedy_algorithm\bin\Debug\Giving_a_change_greedy_algorithm.pdb
+C:\Users\Kuba\Desktop\KUBA\Private\STUDIA\GitHub codes\Binary_Search Algorithm\Giving_a_change_greedy_algorithm\obj\Debug\Giving_a_change_greedy_algorithm.csprojAssemblyReference.cache
+C:\Users\Kuba\Desktop\KUBA\Private\STUDIA\GitHub codes\Binary_Search Algorithm\Giving_a_change_greedy_algorithm\obj\Debug\Giving_a_change_greedy_algorithm.csproj.CoreCompileInputs.cache
+C:\Users\Kuba\Desktop\KUBA\Private\STUDIA\GitHub codes\Binary_Search Algorithm\Giving_a_change_greedy_algorithm\obj\Debug\Giving_a_change_greedy_algorithm.exe
+C:\Users\Kuba\Desktop\KUBA\Private\STUDIA\GitHub codes\Binary_Search Algorithm\Giving_a_change_greedy_algorithm\obj\Debug\Giving_a_change_greedy_algorithm.pdb

@@ -1,0 +1,6 @@
+C:\Users\Kuba\Desktop\KUBA\Private\STUDIA\GitHub codes\Binary_Search Algorithm\Fisrt Raw Leader Search Iteration\bin\Debug\Fisrt Raw Leader Search Iteration.exe.config
+C:\Users\Kuba\Desktop\KUBA\Private\STUDIA\GitHub codes\Binary_Search Algorithm\Fisrt Raw Leader Search Iteration\bin\Debug\Fisrt Raw Leader Search Iteration.exe
+C:\Users\Kuba\Desktop\KUBA\Private\STUDIA\GitHub codes\Binary_Search Algorithm\Fisrt Raw Leader Search Iteration\bin\Debug\Fisrt Raw Leader Search Iteration.pdb
+C:\Users\Kuba\Desktop\KUBA\Private\STUDIA\GitHub codes\Binary_Search Algorithm\Fisrt Raw Leader Search Iteration\obj\Debug\Fisrt Raw Leader Search Iteration.csproj.CoreCompileInputs.cache
+C:\Users\Kuba\Desktop\KUBA\Private\STUDIA\GitHub codes\Binary_Search Algorithm\Fisrt Raw Leader Search Iteration\obj\Debug\Fisrt Raw Leader Search Iteration.exe
+C:\Users\Kuba\Desktop\KUBA\Private\STUDIA\GitHub codes\Binary_Search Algorithm\Fisrt Raw Leader Search Iteration\obj\Debug\Fisrt Raw Leader Search Iteration.pdb

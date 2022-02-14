@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d1e2fc54-7c67-42a2-87b2-33efc7fcae3a": {
+      "ProjectGuid": "d1e2fc54-7c67-42a2-87b2-33efc7fcae3a",
+      "DisplayName": "Binary_Search Algorithm",
+      "ColorIndex": 0
+    },
+    "fa64b6a1-e5f2-4c5d-b270-9c93e98ef373": {
+      "ProjectGuid": "fa64b6a1-e5f2-4c5d-b270-9c93e98ef373",
+      "DisplayName": "Tetrary_Search Algorithm",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

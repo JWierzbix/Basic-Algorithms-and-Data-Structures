@@ -1,0 +1,8 @@
+C:\Users\Kuba\Desktop\KUBA\Private\STUDIA\GitHub codes\Binary_Search Algorithm\Tetrary_Search Algorithm\bin\Debug\Tetrary_Search Algorithm.exe.config
+C:\Users\Kuba\Desktop\KUBA\Private\STUDIA\GitHub codes\Binary_Search Algorithm\Tetrary_Search Algorithm\bin\Debug\Tetrary_Search Algorithm.exe
+C:\Users\Kuba\Desktop\KUBA\Private\STUDIA\GitHub codes\Binary_Search Algorithm\Tetrary_Search Algorithm\bin\Debug\Tetrary_Search Algorithm.pdb
+C:\Users\Kuba\Desktop\KUBA\Private\STUDIA\GitHub codes\Binary_Search Algorithm\Tetrary_Search Algorithm\obj\Debug\Tetrary_Search Algorithm.csproj.AssemblyReference.cache
+C:\Users\Kuba\Desktop\KUBA\Private\STUDIA\GitHub codes\Binary_Search Algorithm\Tetrary_Search Algorithm\obj\Debug\Tetrary_Search Algorithm.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kuba\Desktop\KUBA\Private\STUDIA\GitHub codes\Binary_Search Algorithm\Tetrary_Search Algorithm\obj\Debug\Tetrary_Search Algorithm.csproj.CoreCompileInputs.cache
+C:\Users\Kuba\Desktop\KUBA\Private\STUDIA\GitHub codes\Binary_Search Algorithm\Tetrary_Search Algorithm\obj\Debug\Tetrary_Search Algorithm.exe
+C:\Users\Kuba\Desktop\KUBA\Private\STUDIA\GitHub codes\Binary_Search Algorithm\Tetrary_Search Algorithm\obj\Debug\Tetrary_Search Algorithm.pdb

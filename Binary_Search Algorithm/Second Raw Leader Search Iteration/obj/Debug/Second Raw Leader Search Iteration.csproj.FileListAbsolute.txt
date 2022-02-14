@@ -1,0 +1,7 @@
+C:\Users\Kuba\Desktop\KUBA\Private\STUDIA\GitHub codes\Binary_Search Algorithm\Second Raw Leader Search Iteration\bin\Debug\Second Raw Leader Search Iteration.exe.config
+C:\Users\Kuba\Desktop\KUBA\Private\STUDIA\GitHub codes\Binary_Search Algorithm\Second Raw Leader Search Iteration\bin\Debug\Second Raw Leader Search Iteration.exe
+C:\Users\Kuba\Desktop\KUBA\Private\STUDIA\GitHub codes\Binary_Search Algorithm\Second Raw Leader Search Iteration\bin\Debug\Second Raw Leader Search Iteration.pdb
+C:\Users\Kuba\Desktop\KUBA\Private\STUDIA\GitHub codes\Binary_Search Algorithm\Second Raw Leader Search Iteration\obj\Debug\Second Raw Leader Search Iteration.csprojAssemblyReference.cache
+C:\Users\Kuba\Desktop\KUBA\Private\STUDIA\GitHub codes\Binary_Search Algorithm\Second Raw Leader Search Iteration\obj\Debug\Second Raw Leader Search Iteration.csproj.CoreCompileInputs.cache
+C:\Users\Kuba\Desktop\KUBA\Private\STUDIA\GitHub codes\Binary_Search Algorithm\Second Raw Leader Search Iteration\obj\Debug\Second Raw Leader Search Iteration.exe
+C:\Users\Kuba\Desktop\KUBA\Private\STUDIA\GitHub codes\Binary_Search Algorithm\Second Raw Leader Search Iteration\obj\Debug\Second Raw Leader Search Iteration.pdb
