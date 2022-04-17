@@ -1,0 +1,8 @@
+C:\Users\Kuba\Desktop\KUBA\Private\STUDIA\GitHub codes\Dynamic_and_Greedy_Programming\Giving_a_change_GREEDY_ALGORITHM\bin\Debug\Giving_a_change_GREEDY_ALGORITHM.exe.config
+C:\Users\Kuba\Desktop\KUBA\Private\STUDIA\GitHub codes\Dynamic_and_Greedy_Programming\Giving_a_change_GREEDY_ALGORITHM\bin\Debug\Giving_a_change_GREEDY_ALGORITHM.exe
+C:\Users\Kuba\Desktop\KUBA\Private\STUDIA\GitHub codes\Dynamic_and_Greedy_Programming\Giving_a_change_GREEDY_ALGORITHM\bin\Debug\Giving_a_change_GREEDY_ALGORITHM.pdb
+C:\Users\Kuba\Desktop\KUBA\Private\STUDIA\GitHub codes\Dynamic_and_Greedy_Programming\Giving_a_change_GREEDY_ALGORITHM\obj\Debug\Giving_a_change_GREEDY_ALGORITHM.csproj.AssemblyReference.cache
+C:\Users\Kuba\Desktop\KUBA\Private\STUDIA\GitHub codes\Dynamic_and_Greedy_Programming\Giving_a_change_GREEDY_ALGORITHM\obj\Debug\Giving_a_change_GREEDY_ALGORITHM.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kuba\Desktop\KUBA\Private\STUDIA\GitHub codes\Dynamic_and_Greedy_Programming\Giving_a_change_GREEDY_ALGORITHM\obj\Debug\Giving_a_change_GREEDY_ALGORITHM.csproj.CoreCompileInputs.cache
+C:\Users\Kuba\Desktop\KUBA\Private\STUDIA\GitHub codes\Dynamic_and_Greedy_Programming\Giving_a_change_GREEDY_ALGORITHM\obj\Debug\Giving_a_change_GREEDY_ALGORITHM.exe
+C:\Users\Kuba\Desktop\KUBA\Private\STUDIA\GitHub codes\Dynamic_and_Greedy_Programming\Giving_a_change_GREEDY_ALGORITHM\obj\Debug\Giving_a_change_GREEDY_ALGORITHM.pdb

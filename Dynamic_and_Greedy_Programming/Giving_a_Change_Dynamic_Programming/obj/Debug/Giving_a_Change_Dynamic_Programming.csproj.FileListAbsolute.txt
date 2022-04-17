@@ -1,0 +1,8 @@
+C:\Users\Kuba\Desktop\KUBA\Private\STUDIA\GitHub codes\Dynamic_and_Greedy_Programming\Giving_a_Change_Dynamic_Programming\bin\Debug\Giving_a_Change_Dynamic_Programming.exe.config
+C:\Users\Kuba\Desktop\KUBA\Private\STUDIA\GitHub codes\Dynamic_and_Greedy_Programming\Giving_a_Change_Dynamic_Programming\bin\Debug\Giving_a_Change_Dynamic_Programming.exe
+C:\Users\Kuba\Desktop\KUBA\Private\STUDIA\GitHub codes\Dynamic_and_Greedy_Programming\Giving_a_Change_Dynamic_Programming\bin\Debug\Giving_a_Change_Dynamic_Programming.pdb
+C:\Users\Kuba\Desktop\KUBA\Private\STUDIA\GitHub codes\Dynamic_and_Greedy_Programming\Giving_a_Change_Dynamic_Programming\obj\Debug\Giving_a_Change_Dynamic_Programming.csproj.AssemblyReference.cache
+C:\Users\Kuba\Desktop\KUBA\Private\STUDIA\GitHub codes\Dynamic_and_Greedy_Programming\Giving_a_Change_Dynamic_Programming\obj\Debug\Giving_a_Change_Dynamic_Programming.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kuba\Desktop\KUBA\Private\STUDIA\GitHub codes\Dynamic_and_Greedy_Programming\Giving_a_Change_Dynamic_Programming\obj\Debug\Giving_a_Change_Dynamic_Programming.csproj.CoreCompileInputs.cache
+C:\Users\Kuba\Desktop\KUBA\Private\STUDIA\GitHub codes\Dynamic_and_Greedy_Programming\Giving_a_Change_Dynamic_Programming\obj\Debug\Giving_a_Change_Dynamic_Programming.exe
+C:\Users\Kuba\Desktop\KUBA\Private\STUDIA\GitHub codes\Dynamic_and_Greedy_Programming\Giving_a_Change_Dynamic_Programming\obj\Debug\Giving_a_Change_Dynamic_Programming.pdb

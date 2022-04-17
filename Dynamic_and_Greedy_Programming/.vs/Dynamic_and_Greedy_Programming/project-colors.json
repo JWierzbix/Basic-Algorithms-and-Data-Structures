@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0e0458d3-b8b3-43a7-b5b8-a0d44ac686d7": {
+      "ProjectGuid": "0e0458d3-b8b3-43a7-b5b8-a0d44ac686d7",
+      "DisplayName": "Giving_a_change_GREEDY_ALGORITHM",
+      "ColorIndex": 0
+    },
+    "eb823b84-5a3e-43d4-995d-9fa6f412d7d0": {
+      "ProjectGuid": "eb823b84-5a3e-43d4-995d-9fa6f412d7d0",
+      "DisplayName": "Giving_a_Change_Dynamic_Programming",
+      "ColorIndex": 1
+    },
+    "95315ee9-7d46-4c52-9a11-9c63ca7f9e85": {
+      "ProjectGuid": "95315ee9-7d46-4c52-9a11-9c63ca7f9e85",
+      "DisplayName": "Course_Selection_Problem_GREEDY_PROGRAMMING",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

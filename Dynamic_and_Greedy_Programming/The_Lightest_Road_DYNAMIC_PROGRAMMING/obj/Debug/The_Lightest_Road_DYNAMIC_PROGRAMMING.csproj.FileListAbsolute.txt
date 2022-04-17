@@ -1,0 +1,7 @@
+C:\Users\Kuba\Desktop\KUBA\Private\STUDIA\GitHub codes\Dynamic_and_Greedy_Programming\The_Lightest_Road_DYNAMIC_PROGRAMMING\bin\Debug\The_Lightest_Road_DYNAMIC_PROGRAMMING.exe.config
+C:\Users\Kuba\Desktop\KUBA\Private\STUDIA\GitHub codes\Dynamic_and_Greedy_Programming\The_Lightest_Road_DYNAMIC_PROGRAMMING\bin\Debug\The_Lightest_Road_DYNAMIC_PROGRAMMING.exe
+C:\Users\Kuba\Desktop\KUBA\Private\STUDIA\GitHub codes\Dynamic_and_Greedy_Programming\The_Lightest_Road_DYNAMIC_PROGRAMMING\bin\Debug\The_Lightest_Road_DYNAMIC_PROGRAMMING.pdb
+C:\Users\Kuba\Desktop\KUBA\Private\STUDIA\GitHub codes\Dynamic_and_Greedy_Programming\The_Lightest_Road_DYNAMIC_PROGRAMMING\obj\Debug\The_Lightest_Road_DYNAMIC_PROGRAMMING.csprojAssemblyReference.cache
+C:\Users\Kuba\Desktop\KUBA\Private\STUDIA\GitHub codes\Dynamic_and_Greedy_Programming\The_Lightest_Road_DYNAMIC_PROGRAMMING\obj\Debug\The_Lightest_Road_DYNAMIC_PROGRAMMING.csproj.CoreCompileInputs.cache
+C:\Users\Kuba\Desktop\KUBA\Private\STUDIA\GitHub codes\Dynamic_and_Greedy_Programming\The_Lightest_Road_DYNAMIC_PROGRAMMING\obj\Debug\The_Lightest_Road_DYNAMIC_PROGRAMMING.exe
+C:\Users\Kuba\Desktop\KUBA\Private\STUDIA\GitHub codes\Dynamic_and_Greedy_Programming\The_Lightest_Road_DYNAMIC_PROGRAMMING\obj\Debug\The_Lightest_Road_DYNAMIC_PROGRAMMING.pdb

@@ -1,0 +1,7 @@
+C:\Users\Kuba\Desktop\KUBA\Private\STUDIA\GitHub codes\Dynamic_and_Greedy_Programming\Backpack_Problem_Dynamic_Programming\bin\Debug\Backpack_Problem_Dynamic_Programming.exe.config
+C:\Users\Kuba\Desktop\KUBA\Private\STUDIA\GitHub codes\Dynamic_and_Greedy_Programming\Backpack_Problem_Dynamic_Programming\bin\Debug\Backpack_Problem_Dynamic_Programming.exe
+C:\Users\Kuba\Desktop\KUBA\Private\STUDIA\GitHub codes\Dynamic_and_Greedy_Programming\Backpack_Problem_Dynamic_Programming\bin\Debug\Backpack_Problem_Dynamic_Programming.pdb
+C:\Users\Kuba\Desktop\KUBA\Private\STUDIA\GitHub codes\Dynamic_and_Greedy_Programming\Backpack_Problem_Dynamic_Programming\obj\Debug\Backpack_Problem_Dynamic_Programming.csprojAssemblyReference.cache
+C:\Users\Kuba\Desktop\KUBA\Private\STUDIA\GitHub codes\Dynamic_and_Greedy_Programming\Backpack_Problem_Dynamic_Programming\obj\Debug\Backpack_Problem_Dynamic_Programming.csproj.CoreCompileInputs.cache
+C:\Users\Kuba\Desktop\KUBA\Private\STUDIA\GitHub codes\Dynamic_and_Greedy_Programming\Backpack_Problem_Dynamic_Programming\obj\Debug\Backpack_Problem_Dynamic_Programming.exe
+C:\Users\Kuba\Desktop\KUBA\Private\STUDIA\GitHub codes\Dynamic_and_Greedy_Programming\Backpack_Problem_Dynamic_Programming\obj\Debug\Backpack_Problem_Dynamic_Programming.pdb
