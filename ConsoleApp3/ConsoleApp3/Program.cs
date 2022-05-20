@@ -1,8 +1,0 @@
-﻿
-class Program
-{
-    public static void Main(string[] args)
-    {
-        Console.WriteLine("witajcie w nowym repozytorium");
-    }
-}
